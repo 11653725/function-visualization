@@ -4,7 +4,7 @@
 
 to use this project, boot the main.py in terminal for general results (all functions + combined)
 
-if you want a **specific**, add after main.py the name of the functions (linear, quadratic, sin, cos, exp)
+if you want a **specific** function, add after main.py the name of the function (linear, quadratic, sin, cos, exp)
 
 # Enjoy!
 
